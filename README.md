@@ -1,4 +1,4 @@
-# Laravel 7.0+ Frontend preset for Tailwind CSS
+# Laravel 9.0+ Frontend preset for Tailwind CSS
 
 A Laravel front-end scaffolding preset for [Tailwind CSS](https://tailwindcss.com) - a Utility-First CSS Framework for Rapid UI Development.
 
